@@ -1,1 +1,1 @@
-# gh-pages
+# Linguage is about language
